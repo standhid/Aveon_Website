@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Aveon_Website/static/css/main.428ce3cc.css",
+    "main.js": "/Aveon_Website/static/js/main.984bf304.js",
+    "static/js/787.070db070.chunk.js": "/Aveon_Website/static/js/787.070db070.chunk.js",
+    "static/media/logo.png": "/Aveon_Website/static/media/logo.85ff41aee09b482ec053.png",
+    "index.html": "/Aveon_Website/index.html",
+    "static/media/left-arrow.svg": "/Aveon_Website/static/media/left-arrow.53878c51904c34f1288e46174c107c57.svg",
+    "static/media/right-arrow.svg": "/Aveon_Website/static/media/right-arrow.8b8fb639d7ed68731e5b073c0700d3bf.svg",
+    "main.428ce3cc.css.map": "/Aveon_Website/static/css/main.428ce3cc.css.map",
+    "main.984bf304.js.map": "/Aveon_Website/static/js/main.984bf304.js.map",
+    "787.070db070.chunk.js.map": "/Aveon_Website/static/js/787.070db070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.428ce3cc.css",
+    "static/js/main.984bf304.js"
+  ]
+}
